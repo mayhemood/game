@@ -42,7 +42,7 @@ start_btn.addEventListener('click', () => {
         // mouse up to the desired hole
         let set_img = document.createElement('img')
         set_img.setAttribute('src', 
-'https://media.geeksforgeeks.org/wp-content/uploads/20210303135621/rat.png')
+'f.png')
         set_img.setAttribute('class', 'rat')
         holee.appendChild(set_img)
 
